@@ -2,7 +2,7 @@ Hi :wave: My name is JC :wink:.
 
 Developer, work around with Python, Django, Data Processing, Data Visualization, Frontend, JavaScript, React etc.
 
-Have interest :hearts: in cars, car tuning, racing :racing_car:. I have a hatchback car :red_car:, a road bike and a mountain bike, used to play skateboard, now play with karting, track day events and modified cars.
+Have interest :hearts: in cars, car tuning, racing :racing_car:. I have a hatchback car :red_car:, a road bike and a mountain bike :bike:, used to play skateboard, now play with karting, track day events and modified cars.
 
 You can reach me by Gmail :e-mail:: lsdvincent#gmail.com
 
