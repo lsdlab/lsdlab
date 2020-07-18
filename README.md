@@ -14,3 +14,5 @@ I am open to collaboration and communication. If you want to share some ideas wi
 - GitLab: [lsdlab](https://github.com/lsdlab)
 - stack overflow: [jcjc](https://stackoverflow.com/users/3295711/jcjc?tab=profile)
 - Douban: [BreakWire](https://www.douban.com/people/135271635/)
+
+![githubstat](https://github-readme-stats.vercel.app/api?username=lsdlab&show_icons=true)
