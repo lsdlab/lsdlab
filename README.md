@@ -1,6 +1,6 @@
 Hi, 👋 My name is JC. 😉
 
-Senior Software Engineer work at [AMAX CHINA](http://www.amaxchina.com), work around with Python 🐍, Django, Data Processing 💽, Data Visualization 📊, Frontend, JavaScript, React etc.
+Senior Software Engineer working at [AMAX CHINA](http://www.amaxchina.com), work around with Python 🐍, Django, Data Processing 💽, Data Visualization 📊, Frontend, JavaScript, React etc.
 
 Have a passion for cars 🚗, car tuning, racing 🏎️, or anything with wheels. I have a hatchback car, now i'm working on it's modification. Have a road bike 🚴‍♂️ and a mountain bike, used to play skateboard, cycling back in the college, now play with karting, track day events and modified cars.
 
