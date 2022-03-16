@@ -8,8 +8,6 @@ I am open to collaboration and communication. If you want to share some ideas wi
 
 ## Elsewhere
 
-- Linkedin: [Chen Jian](https://www.linkedin.com/in/jc-81493210b/)
-- Blog: [BreakWire](https://breakwire.me)
+- Blog: [BreakWire](https://lsdlab.github.io)
 - GitHub: [lsdlab](https://github.com/lsdlab)
 - stack overflow: [jcjc](https://stackoverflow.com/users/3295711/jcjc?tab=profile)
-- Douban: [BreakWire](https://www.douban.com/people/135271635/)
